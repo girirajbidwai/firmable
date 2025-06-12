@@ -13,13 +13,8 @@ This repository implements a modular data pipeline to:
 
 ## Architecture
 
-<!--
-Insert your data pipeline architecture diagram here.
-For example, you can add an image like this once you have it:
-![Data Pipeline Architecture](path/to/diagram.png)
--->
+![image](https://github.com/user-attachments/assets/210d147f-d1ae-45ad-ab4a-e6dba23c5c65)
 
----
 
 ## Repository Structure
 
